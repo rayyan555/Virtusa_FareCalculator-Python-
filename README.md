@@ -81,6 +81,27 @@ Total Fare: ₹ 270.0
 * Surge pricing is only applied between 17 and 20
 
 ---
+##  Output Screenshots
+
+###  Invalid Vehicle Type
+![Invalid](images/Screenshot%202026-04-14%20112846.png)
+
+---
+
+###  Economy with Surge Pricing
+![Economy Surge](images/Screenshot%202026-04-14%20112830.png)
+
+---
+
+###  Premium without Surge
+![Premium](images/Screenshot%202026-04-14%20112819.png)
+
+---
+
+###  SUV Ride
+![SUV](images/Screenshot%202026-04-14%20112807.png)
+
+---
 
 ##  Author
 

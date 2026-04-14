@@ -6,6 +6,17 @@ It calculates the total ride fare based on distance, vehicle type, and time of t
 The main idea of this project is to simulate how real cab apps adjust pricing during peak hours.
 
 ---
+## Problem Statement
+
+A ride-sharing startup, CityCab, needs a backend system to calculate ride fares dynamically instead of using fixed pricing. The fare should vary depending on the distance traveled, type of vehicle selected, and time of the ride.
+
+The task is to develop a Python-based fare calculation script that determines the final ride cost using predefined rates for different vehicle categories. Additionally, the system must account for peak hours by applying a surge pricing multiplier during specific time intervals.
+
+The program should accept user inputs such as distance (in kilometers), vehicle type, and hour of the day, then compute and display a well-formatted price receipt. It should also handle invalid inputs gracefully by informing the user when a selected service is not available.
+
+The goal is to demonstrate the use of dictionaries, functions, conditional logic, and basic error handling in a real-world scenario.
+
+---
 
 ##  Features
 

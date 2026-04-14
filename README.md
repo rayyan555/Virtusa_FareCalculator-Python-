@@ -1,7 +1,3 @@
-# Virtusa_FareCalculator-Python-
-A Python-based fare calculation system developed for a ride-sharing use case. It computes ride cost based on distance, vehicle type, and peak-hour surge pricing, while also handling invalid inputs and generating a clear fare receipt
-
-
 # FareCalc – Travel Fare Optimizer
 
 This is a simple Python program built for a ride-sharing scenario (CityCab).
@@ -71,7 +67,7 @@ Total Fare: ₹ 270.0
 
 ---
 
-##  Notes
+##  Notes (while entering the details)
 
 * Time should be entered in 24-hour format
 * Vehicle type is case-sensitive (must match exactly)
@@ -79,23 +75,11 @@ Total Fare: ₹ 270.0
 
 ---
 
-##  Future Improvements
-
-* Add input validation using try-except
-* Make vehicle type case-insensitive
-* Add GUI using Tkinter
-* Store ride history
-
----
-
 ##  Author
 
 Rayyan A
 BE CSE (AIML)
-
+Email: rayyanibnrahman903@gmail.com
 ---
 
-If you want, I can also:
-✅ Make this more **GitHub attractive (badges, icons, sections)**
-✅ Add screenshots section
-✅ Customize for placement-level projects 🚀
+

@@ -42,7 +42,7 @@ The main idea of this project is to simulate how real cab apps adjust pricing du
 
 ##  Example
 
-```
+
 Enter distance (in km): 10
 Enter vehicle type (Economy/Premium/SUV): Premium
 Enter hour of travel (0-23): 18
@@ -53,7 +53,7 @@ Vehicle Type: Premium
 Travel Hour: 18
 Surge Pricing Applied: Yes (1.5x)
 Total Fare: ₹ 270.0
-```
+
 
 ---
 
